@@ -4,27 +4,21 @@
 ### Rules:
 
 #### Quick Start: 
-* Two teams compete in a guessing game. 
-* The team with the most points at the end of a minute wins the game. 
+* Two players (Player vs Computer) drop circular objects into grid until 1 connects 4 of the same color.
+* The one who connects 4 of 1 color will win.  
 
 #### Detailed Instructions: 
-* The two teams find a way to make a decision of who goes first. 
-* Team 1 picks their deck first and Team 2 gets the other deck. 
-* Team 1 begins with one member in front of the computer screen and their partner on the other side. 
-* The reader has one minute to give clues to their partner so they can get as many cards as possible. 
-* Each correct answer is +1 point. 
-* Each incorrect answer is -1 point. 
-* After 1 minute, Team 2 begins the same process. 
-* The team with the most points after a minute wins the game. 
+* Player 1 places their piece into a section of the 6x7 grid.
+* Computer will do the same. 
+* Each player will continue this action trying to connect 4 of their own color while also trying to block their opponent from doing the same. 
 
 ### Wireframe: 
-![alt text](https://github.com/devagreen9/The-Proposal/blob/master/assets/Way%20To%20Guess%20Wireframe.jpg "Logo Title Text 1")
+![alt text](https://github.com/devagreen9/The-Proposal/blob/master/assets/Connect4-Wireframe.png "Logo Title Text 1")
 
 ### Timeline: 
-* Wednesday - Wireframing and psudocoding
-* Thursday - Finish psudocoding. Use HTML to build the pages.
-* Friday - Use CSS game properties and work on the JavaScript functionality 
-* Saturday - Working on the functionality and connecting the pages with the design.  
-* Sunday - Functionality and connecting pages
-* Monday - running though game and cleaning bugs. 
+* Thursday - Finalize wireframe & psudocoding. Begin creating the page where the game will run. The page should be a grid based game that has the rules at the top of the page and the name of the game. 
+* Friday - Create the functions that the game will run through. There needs to be a way for the grid to read that the pieces are being placed inside of it. The game should have functions where it checks win someone wins the game. The game should also have functions to control when it's each player's turn . Finish creating the page where the game will run.
+* Saturday - Linking the HTML to the JS. 
+* Sunday - Make it pretty with additional CSS. 
+* Monday - run through the game & clean final bugs. Add a start button as a final touch. 
 * Tuesday - Present 
