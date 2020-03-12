@@ -1,5 +1,5 @@
 # The-Proposal
-## Way To Guess Proposal
+## Connect 4 Proposal
 
 ### Rules:
 
